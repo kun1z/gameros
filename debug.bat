@@ -1,0 +1,1 @@
+"C:\Program Files\Bochs-2.6\bochsdbg.exe" -rc C:\masm32\projects\gameros\dbg.txt -q -f C:\masm32\projects\gameros\bochsrc.bxrc
